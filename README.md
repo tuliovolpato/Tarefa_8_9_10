@@ -9,7 +9,7 @@ git https://github.com/tuliovolpato
 
 2. Instalar dependências
 ```bash
-cd aula08
+cd aula 8_9_10
 npm install
 ```
 
